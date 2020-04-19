@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-ng-socials-app-dev-203016-authRole",
+            "UnauthRoleArn": "arn:aws:iam::610339932478:role/amplify-ng-socials-app-dev-203016-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::610339932478:role/amplify-ng-socials-app-dev-203016-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-ng-socials-app-dev-203016-deployment",
+            "UnauthRoleName": "amplify-ng-socials-app-dev-203016-unauthRole",
+            "StackName": "amplify-ng-socials-app-dev-203016",
+            "StackId": "arn:aws:cloudformation:ap-south-1:610339932478:stack/amplify-ng-socials-app-dev-203016/7d67dc40-824e-11ea-8431-0aa78e4848ba",
+            "AmplifyAppId": "dj4njii6hovdz"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dj4njii6hovdz",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}
